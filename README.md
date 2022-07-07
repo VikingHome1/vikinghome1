@@ -5,5 +5,8 @@
 - 🌱 I’m currently learning Javascript, Linux, NodeJS...
 
 - 🧰 Languages and tools
+   - Linux
+   - Javascript
+   - Python
    - Vim
    - Nano
