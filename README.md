@@ -14,5 +14,5 @@
   <a href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML" src="./img/html5.svg"/></a>
   <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src="./img/css3.svg"/></a>
   <a href="https://javascript.com"><img alt="JavaScript" src="./img/js.svg"/></a>
-  <a href="https://go.dev"><img alt="Golang" src="./img/go.svg"></a>
+  <a href="https://go.dev"><img alt="Golang" src="./img/go.png"></a>
 </p>
