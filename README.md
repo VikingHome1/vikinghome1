@@ -1,10 +1,11 @@
 # VikingHome1
 
-<summary> 🔭 I’m currently working on [vulnsites](https://github.com/vikinghome1/vulnsites)</summary>
+<details>
+- 🔭 I’m currently working on [vulnsites](https://github.com/vikinghome1/vulnsites)</summary>
 
 - 🌱 I’m currently learning Javascript, Linux, NodeJS...
 
-- 🧰 Languages and tools
+<summary>- 🧰 Languages and tools</summary>
 <p>
   <a href="https://gnu.org/"><img alt="Linux" src="./img/tux.svg"/></a>
   <a href="https://git-scm.com/"><img alt="Git" src="./img/git.svg"/></a>
@@ -16,3 +17,4 @@
   <a href="https://javascript.com"><img alt="JavaScript" src="./img/js.svg"/></a>
   <a href="https://go.dev"><img alt="Golang" src="./img/go.png"></a>
 </p>
+</details>
