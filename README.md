@@ -3,8 +3,8 @@
 <h4>🔭 I’m currently working on [vulnsites](https://github.com/vikinghome1/vulnsites)</h4>
 
 <h4>🌱 I’m currently learning Javascript, Linux, NodeJS...</h4>
-<details>
-<summary><h4>🧰 Languages and tools</h4></summary>
+
+<h4>🧰 Languages and tools</h4>
 <p>
   <a href="https://gnu.org/"><img alt="Linux" src="./img/tux.svg"/></a>
   <a href="https://git-scm.com/"><img alt="Git" src="./img/git.svg"/></a>
@@ -16,4 +16,3 @@
   <a href="https://javascript.com"><img alt="JavaScript" src="./img/js.svg"/></a>
   <a href="https://go.dev"><img alt="Golang" src="./img/go.png"></a>
 </p>
-</details>
