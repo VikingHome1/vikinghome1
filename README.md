@@ -7,7 +7,6 @@
 - 🧰 Languages and tools
 <p>
   <a href="https://gnu.org/"><img alt="Linux" src="./img/tux.svg"/></a>
-  &nbsp;
   <a href="https://git-scm.com/"><img alt="Git" src="./img/git.svg"/></a>
   <a href="https://gcc.gnu.org/"><img alt="C" src="./img/c.svg"/></a>
   <a href="https://www.python.org/"><img alt="Python" src="./img/py.svg"/></a>
