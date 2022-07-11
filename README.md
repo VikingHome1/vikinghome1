@@ -1,10 +1,9 @@
 # VikingHome1
 
-<details>
 - 🔭 I’m currently working on [vulnsites](https://github.com/vikinghome1/vulnsites)</summary>
 
 - 🌱 I’m currently learning Javascript, Linux, NodeJS...
-
+<details>
 <summary>- 🧰 Languages and tools</summary>
 <p>
   <a href="https://gnu.org/"><img alt="Linux" src="./img/tux.svg"/></a>
