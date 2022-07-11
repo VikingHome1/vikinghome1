@@ -16,4 +16,4 @@
   <a href="https://javascript.com"><img alt="JavaScript" src="./img/js.svg"/></a>
   <a href="https://go.dev"><img alt="Golang" src="./img/go.png"></a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=vikinghome1"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vikinghome1&show_icons=true&theme=apprentice"/>
