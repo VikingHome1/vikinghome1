@@ -1,10 +1,10 @@
 # VikingHome1
 
-- 🔭 I’m currently working on [vulnsites](https://github.com/vikinghome1/vulnsites)</summary>
+<h4>🔭 I’m currently working on [vulnsites](https://github.com/vikinghome1/vulnsites)</h4>
 
-- 🌱 I’m currently learning Javascript, Linux, NodeJS...
+<h4>🌱 I’m currently learning Javascript, Linux, NodeJS...</h4>
 <details>
-<summary>- 🧰 Languages and tools</summary>
+<summary><h4>🧰 Languages and tools</h4></summary>
 <p>
   <a href="https://gnu.org/"><img alt="Linux" src="./img/tux.svg"/></a>
   <a href="https://git-scm.com/"><img alt="Git" src="./img/git.svg"/></a>
