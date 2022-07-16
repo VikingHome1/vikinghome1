@@ -1,6 +1,6 @@
 # VikingHome1
 
-**🔭 I’m currently working on nothing
+**🔭 I’m currently working on nothing**
 
 <h4>🌱 I’m currently learning Javascript, Linux, NodeJS...</h4>
 
